@@ -16,15 +16,21 @@
 
 Press **M** in a dungeon to see its parchment map. Use **Route** for the suggested path, click a boss skull to see the route to that boss, or use a stair marker to change floors. Keep the companion running and the minimap visible for live player tracking. The camel minimap button lets you browse supported maps from anywhere.
 
+![Dungeon Maps tab displaying the Deadmines parchment map and live tracking controls](docs/screenshots/dungeon-maps.png)
+
 ### Money Maker
 
 Open Money Maker and click **Select AddOns folder** to point it at your WoW Forever `Interface\AddOns` folder. Run a full scan in Auctionator, then type `/reload` in WoW to save it. Money Maker picks up the saved prices automatically. **Refresh Auctionator** checks again on demand.
 
 Click a table heading to sort prices or trends, favorite items you watch, and click a buyout to see its price history. Right-click a crafted item and choose **Crafting cost** to compare its materials with the estimated sale value.
 
+![Money Maker tab showing ore prices, price changes, and a favorite item](docs/screenshots/money-maker.png)
+
 ### Fishing
 
 Open Fishing, select the playback device WoW uses, and make your first cast. Press **F9** to start or stop Fishing Mode. Keep WoW in the foreground while fishing. **Preview only** lets you check whether bite detection is working.
+
+![Fishing tab showing the start button, playback settings, and session log](docs/screenshots/fishing.png)
 
 ## Credits
 
